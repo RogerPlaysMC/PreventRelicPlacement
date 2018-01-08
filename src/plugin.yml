@@ -1,0 +1,5 @@
+name: PreventRelicPlacement
+version: 1.0
+description: Prevents placement of Relics on Maestrea
+author: RogerPlaysMC
+main: com.maestrea.brickmasterraj.preventrelicplacement.Main
